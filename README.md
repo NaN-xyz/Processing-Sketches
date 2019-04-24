@@ -4,7 +4,7 @@ Sketches for [Processing](https://processing.org/) in Python Mode.
 
 ## Whirlygig
 
-Inspired by Zuzana Licko's [Whirlygigs](https://www.emigre.com/Fonts/Whirligig) for Emigre Fonts. Add a font to the /data folder and updated the src in setup(). Frames are saved to the /frames folder. Sample font shown is [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface) by [TypeTogether](https://www.type-together.com/)
+Inspired by Zuzana Licko's [Whirlygigs](https://www.emigre.com/Fonts/Whirligig) for Emigre Fonts. Add a font to the /data folder and updated the src in setup(). Frames are saved to the /frames folder. Sample font shown is [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface) by [TypeTogether](https://www.type-together.com/).
 
 ## License
 
