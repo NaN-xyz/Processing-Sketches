@@ -4,7 +4,7 @@ Sketches for [Processing](https://processing.org/) in Python Mode.
 
 ## Whirlygig
 
-Inspired by Zuzana Licko's [Whirlygigs](https://www.emigre.com/Fonts/Whirligig) for Emigre Fonts
+Inspired by Zuzana Licko's [Whirlygigs](https://www.emigre.com/Fonts/Whirligig) for Emigre Fonts. Add a font to the /data folder and updated the src in setup(). Frames are saved to the /frames folder.
 
 ## License
 
